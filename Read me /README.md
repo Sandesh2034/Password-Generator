@@ -25,7 +25,7 @@ Hello! 👋 I'm Sandesh Gurung, a bootcamp student, and I've crafted this Passwo
 
 ## Website URL
 
-You can check out the live version of this password generator by following this [link](<your-website-url>).
+You can check out the live version of this password generator by following this [link](https://sandesh2034.github.io/Password-Generator/).
 
 ## How to Contribute
 
